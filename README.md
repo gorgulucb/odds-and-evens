@@ -1,2 +1,2 @@
 # Odds and Evens Game
-A simple Odds and Evens game written in Python.
+A simple Odds and Evens script written in Python.
